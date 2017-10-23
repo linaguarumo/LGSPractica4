@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862070141682",
+    "project_id": "misemilla4"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862070141682:android:efb0b31d579f7730",
+        "android_client_info": {
+          "package_name": "com.linalgs.lgspractica4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862070141682-ptad8j39meriln97g1uu7sf53319h30k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linalgs.lgspractica4",
+            "certificate_hash": "0eefeab05e076689340a2c6d7a3ebd3aae8a7cb2"
+          }
+        },
+        {
+          "client_id": "862070141682-0vk2c0djlahtb64cbimos4bv90dnrbbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4bZGMinkG7a3czNhQj-Spzl-MQtZ9KOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
